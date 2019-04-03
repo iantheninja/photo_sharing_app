@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'pg'
 gem 'bootstrap', '~> 4.1.1'
 gem "font-awesome-rails"
+gem 'devise'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
